@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearEyeInteraction", "Assembly-CSharp.csproj", "{B05E836F-40E5-4776-F3C5-932F23F12CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearEyeInteraction", "Assembly-CSharp-Editor.csproj", "{B5941877-E047-D7F9-5F5D-5C2A946D826C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05E836F-40E5-4776-F3C5-932F23F12CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05E836F-40E5-4776-F3C5-932F23F12CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05E836F-40E5-4776-F3C5-932F23F12CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05E836F-40E5-4776-F3C5-932F23F12CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5941877-E047-D7F9-5F5D-5C2A946D826C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5941877-E047-D7F9-5F5D-5C2A946D826C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5941877-E047-D7F9-5F5D-5C2A946D826C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5941877-E047-D7F9-5F5D-5C2A946D826C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
